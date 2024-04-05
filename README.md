@@ -3,4 +3,6 @@
 
 Data and scripts for species delimitation, phenotypic and niche analyses of Hoary Bats.
 
+Citation:
+
 Soto-Centeno, J. A., and N. B. Simmons. 2022. Environmentally driven phenotypic convergence and niche conservatism accompany speciation in hoary bats. Scientific Reports 12:21877.
